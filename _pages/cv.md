@@ -21,7 +21,7 @@ Education
 Research
 ======
 * The Labour Market Effects of R&D tax credits targeting Small Firms ([Job Market Paper](https://alehoux.github.io/JMP/))
-* New Wave of Industrial Policies: Labour Market Evidence from an IT Wage Subsidy ([Working Paper](https://alehoux.github.io/talks/))
+* New Wave of Industrial Policies: Labour Market Evidence from an IT Wage Subsidy ([Working Paper](https://alehoux.github.io/WP/))
 
 
 Professional Experience
