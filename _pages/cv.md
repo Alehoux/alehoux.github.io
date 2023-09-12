@@ -1,11 +1,12 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+<iframe src="https://github.com/Alehoux/alehoux.github.io/blob/f7671b4dc522cba68fd88a010dee8750b22d5509/files/CV_JMP.pdf" height = "700" width = "980"></iframe>
 
 {% include base_path %}
 
