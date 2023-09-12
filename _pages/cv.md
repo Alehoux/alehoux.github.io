@@ -10,11 +10,11 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Economics, University of Toronto, 2024 (Expected)  
-     * Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi    
+* Ph.D. in Economics, University of Toronto, 2024 (Expected)  
+    Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi    
      
-M.A in Economics, Universit‌&#233; de Montr&#233;al, 2017  
-B.A in Economics, Universit‌&#233; de Montr&#233;al, 2015  
+* M.A in Economics, Universit‌&#233; de Montr&#233;al, 2017  
+* B.A in Economics, Universit‌&#233; de Montr&#233;al, 2015  
 
 Research
 ======
@@ -24,33 +24,33 @@ Research
 
 Professional Experience
 ======
-**Competition Law Officer, Mergers & Acquisitions division**  
-*Competition Bureau, Government of Canada*  
-*September 2017 - August 2018*    
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Competition Law Officer, Mergers & Acquisitions division**  
+    *Competition Bureau, Government of Canada*  
+    *September 2017 - August 2018*    
 
+* **Research Assistant**  
+     **Arthur Blouin & Julian Dyer** : Web-scrapping meta-data and PDFs (Summer 2018)  
+     **Immo Schott** : Code to transfer text files to Stata (Summer 2015)
 
-  
-Talks
+* **Teaching Assistant** (From 2018-Now)  
+    • ECO 206: Microeconomics  
+    • ECO 210: Mathematical Methods for Economic Theory  
+    • ECO 225: Data Tools for Economists  
+    • ECO 334: The Political Economy of Media  
+    • ECO 339: Labour Economics: Empl., Wages and Public Policy  
+    • ECO 344: Labour Economics and Market Frictions  
+    • ECO 375: Applied Econometrics I  
+    • ECO 375: Applied Econometrics II  
+    • ECO 446: Advanced Public Economics  
+      
+Awards and Grants 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **University of Toronto Doctoral Fellowship ($15,000 × 5)**  
+    *2018 - 2023*
+
+* **Maurice-Bouchard Foundation scholarship ($1,000)**  
+    *2015*   
   
-Teaching
+Academic Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Doctoral Student Mentor (2018 - 2023)
