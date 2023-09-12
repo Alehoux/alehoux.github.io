@@ -31,8 +31,8 @@ Professional Experience
     *September 2017 - August 2018*    
 
 * **Research Assistant**  
-     **Arthur Blouin & Julian Dyer** : Web-scrapping meta-data and PDFs (Summer 2018)  
-     **Immo Schott** : Code to transfer text files to Stata (Summer 2015)
+     • Arthur Blouin & Julian Dyer : Web-scrapping meta-data and PDFs (Summer 2018)  
+     • Immo Schott : Code to transfer text files to Stata (Summer 2015)
 
 * **Teaching Assistant** (From 2018-Now)  
     • ECO 206: Microeconomics  
