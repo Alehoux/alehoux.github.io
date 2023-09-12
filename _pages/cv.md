@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [pdf version](https://www.example.com)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Ph.D. in Economics, University of Toronto, 2024 (Expected)
+     - Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi  
+* M.A in Economics, Universit‌&#233; de Montr&#233;al, 2017
+* B.A in Economics, Universit‌&#233; de Montr&#233;al, 2015
+
+<div class="custom-list">
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</div>
+
+/* Your CSS styles */
+.custom-list {
+  margin-left: 20px; /* Adjust the indentation as needed */
+}
+
+.custom-list ul {
+  list-style-type: disc; /* Add bullet points */
+}
+
+Research
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
@@ -36,11 +60,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
