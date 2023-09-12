@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [pdf version](https://www.example.com)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,33 +11,16 @@ redirect_from:
 
 Education
 ======
-Ph.D. in Economics, University of Toronto, 2024 (Expected)
+* Ph.D. in Economics, University of Toronto, 2024 (Expected)
      - Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi  
 * M.A in Economics, Universit‌&#233; de Montr&#233;al, 2017
 * B.A in Economics, Universit‌&#233; de Montr&#233;al, 2015
 
-<div class="custom-list">
-  <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-  </ul>
-</div>
-
-/* Your CSS styles */
-.custom-list {
-  margin-left: 20px; /* Adjust the indentation as needed */
-}
-
-.custom-list ul {
-  list-style-type: disc; /* Add bullet points */
-}
-
 Research
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* The Labour Market Effects of R&D tax credits targeting Small Firms ([Job Market Paper](https://alehoux.github.io/JMP/))
+* New Wave of Industrial Policies: Labour Market Evidence from an IT Wage
+Subsidy
 
 Work experience
 ======
