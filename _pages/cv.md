@@ -11,28 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, University of Toronto, 2024 (Expected)
-     - Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi  
-* M.A in Economics, Universit‌&#233; de Montr&#233;al, 2017
-* B.A in Economics, Universit‌&#233; de Montr&#233;al, 2015
+Ph.D. in Economics, University of Toronto, 2024 (Expected)  
+     * Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi    
+     
+M.A in Economics, Universit‌&#233; de Montr&#233;al, 2017  
+B.A in Economics, Universit‌&#233; de Montr&#233;al, 2015  
 
 Research
 ======
 * The Labour Market Effects of R&D tax credits targeting Small Firms ([Job Market Paper](https://alehoux.github.io/JMP/))
-* New Wave of Industrial Policies: Labour Market Evidence from an IT Wage
-Subsidy
+* New Wave of Industrial Policies: Labour Market Evidence from an IT Wage Subsidy ([Working Paper](https://alehoux.github.io/talks/))
 
-Work experience
+
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Competition Law Officer, Mergers & Acquisitions division**  
+*Competition Bureau, Government of Canada*  
+*September 2017 - August 2018*    
   
 Skills
 ======
