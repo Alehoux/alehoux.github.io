@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-<iframe src="https://drive.google.com/viewerng/viewer?url=https://drive.google.com/file/d/1J-5mubc3RkFvY6uLZvttq12Qx5bVgU8E/view?usp=drive_link" height = "700" width = "980"></iframe>
-
 Education
 ======
 Ph.D. in Economics, University of Toronto, 2024 (Expected)  
