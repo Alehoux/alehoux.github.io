@@ -13,8 +13,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Economics, University of Toronto, 2024 (Expected)  
-    Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi    
-     
+    Committee: Kory Kroft (co-supervisor), David J. Price (co-supervisor), Marl&#232;ne Koffi
+  
 * M.A in Economics, Universit‌&#233; de Montr&#233;al, 2017  
 * B.A in Economics, Universit‌&#233; de Montr&#233;al, 2015  
 
