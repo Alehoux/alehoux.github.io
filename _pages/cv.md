@@ -1,12 +1,14 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 {% include base_path %}
+
+[PDF Version](https://github.com/Alehoux/alehoux.github.io/blob/f7671b4dc522cba68fd88a010dee8750b22d5509/files/CV_JMP.pdf)
 
 Education
 ======
