@@ -47,10 +47,10 @@ Professional Experience
       
 Awards and Grants 
 ======
-* **University of Toronto Doctoral Fellowship ($15,000 × 5)**  
+* **University of Toronto Doctoral Fellowship** ($15,000 × 5)  
     *2018 - 2023*
 
-* **Maurice-Bouchard Foundation scholarship ($1,000)**  
+* **Maurice-Bouchard Foundation scholarship** ($1,000)  
     *2015*   
   
 Academic Service
